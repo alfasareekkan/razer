@@ -1,0 +1,311 @@
+body {
+    font-family: Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    margin: 0;
+    padding: 0;
+    background-color: #212124;
+
+}
+
+.nav-bar {
+    background-color: #000;
+    width: 100%;
+    height: 48px;
+    float: left;
+    position: fixed;
+
+
+
+
+    border-bottom: 1px solid #44D62C;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(68, 214, 44);
+
+}
+
+.logo {
+
+    float: left;
+
+    margin-top: 5px;
+    margin-left: 35px;
+    width: 100px;
+
+}
+
+.logo-img {
+    width: 35px;
+}
+
+.nav-items {
+    float: left;
+    align-items: center;
+    text-align: center;
+    margin-top: 13px;
+
+
+
+
+}
+
+.items {
+    text-decoration: none;
+    color: gray;
+    padding: 20px;
+    font-size: .8rem;
+    font-family: 'Roboto Flex', sans-serif;
+}
+
+/* .search-bar {
+
+    background-color: #fff;
+    border-radius: 1rem;
+    border-width: 0px;
+    border: none;
+    outline: none;
+} */
+
+.shop-nav {
+    margin-left: 950px;
+    margin-top: 11px;
+}
+
+.notification {
+    padding-top: 50px;
+    background-color: gray;
+    float: left;
+    width: 100%;
+    height: 34px;
+
+
+
+}
+
+.notification-msg {
+    color: #fff;
+    text-align: center;
+    font-size: 11px;
+
+
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.list-item1 {
+    float: left;
+    background-image: url("/assets/img/razer-kishi-v2-hero-desktop-v2.jpg");
+    height: 400px;
+    width: 100%;
+
+    background-size: cover;
+}
+
+.item1 {
+    float: left;
+    margin-left: 380px;
+
+}
+
+.item1-h1 {
+    color: #fff;
+    padding-left: 10px;
+
+}
+
+.item1-h3 {
+    color: #fff;
+    padding-left: 50px;
+
+}
+
+.list-item2 {
+    margin-top: 10px;
+    float: left;
+    background-image: url("/assets/img/razer-blade-17-homepage-desktop1x-refresh.jpg");
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+
+}
+
+.item2 {
+    float: left;
+    margin-left: 300px;
+
+}
+
+.item2-h1 {
+    color: #fff;
+    padding-left: 40px;
+
+}
+
+.item2-h3 {
+
+    color: #fff;
+    padding-left: 20px;
+}
+
+.list-item3 {
+    margin-top: 10px;
+
+    float: left;
+    background-image: url("/assets/img/razer-viper-v2-pro-hero.jpg");
+
+    height: 460px;
+    width: 49%;
+    background-size: cover;
+}
+
+.list-item4 {
+    margin-top: 10px;
+    margin-left: 10px;
+
+    float: left;
+    background-image: url("/assets/img/razer-barracuda-family-hero.jpg");
+
+    height: 460px;
+    width: 50%;
+    background-size: cover;
+}
+
+.item3 {
+    padding-left: 100px;
+    color: #fff;
+}
+
+/* .item3-h1{
+    align-items: center;
+} */
+.item3-h3 {
+    padding-left: 70px;
+
+}
+
+.item4 {
+    padding-left: 100px;
+    color: #fff;
+
+}
+
+.item4-h3 {
+    padding-left: 40px;
+
+}
+
+/* .razer-video {
+    float: left;
+    margin-top: 10px;
+    width: 100%;
+    height: 315px;
+
+} */
+
+.footer {
+    float: left;
+    margin-top: 10px;
+    width: 100%;
+    height: 275px;
+    background-color: rgb(15, 16, 18);
+}
+
+/* .i-video {
+    float: left;
+    
+    border: none;
+    border-radius: 10px;
+
+
+} */
+
+.footer-sec1 {
+    float: left;
+    width: 100%;
+    height: 169px;
+
+}
+
+.footer-sec1-man1,
+.footer-sec1-man2,
+.footer-sec1-man3,
+.footer-sec1-man4 {
+    float: left;
+    width: 240px;
+    height: 166px;
+    margin-left: 10px;
+    margin-top: 20px;
+
+
+}
+
+.footer-sec1-man-child ul li {
+    list-style: none;
+}
+
+.footer-sec1-man-child ul li a {
+    color: gray;
+    font-family: 'Roboto Flex', sans-serif;
+    font-size: 0.7rem;
+
+}
+
+.footer-sec1-man-child label {
+    color: #fff;
+    font-family: 'Roboto Flex', sans-serif;
+    padding-left: 37px;
+    font-size: 0.7rem;
+}
+
+.footer-sec2 {
+    float: left;
+    width: 100%;
+
+}
+
+.footer-sec2-line {
+    margin-top: 24px;
+    margin-left: 49px;
+    float: left;
+    width: 86%;
+    height: 0.1px;
+    background-color: gray;
+}
+
+.footer-sec2-last div p {
+    float: left;
+    color: gray;
+    font-size: 0.6rem;
+}
+
+.footer-sec2-last-1 {
+    width: 216px;
+    margin-left: 49px;
+}
+
+.footer-sec2-last-2 {
+    float: left;
+    margin-left: 600px;
+    width: 116px;
+
+}
+/* .razer-video-icon{
+    float: left;
+    margin-top: 22px;
+    height: 246px;
+    width: 329px;
+} */
+/* .razer-video-sec1{
+    float: left;
+    width: 346px;
+    height: 100%;
+    
+}
+.razer-video-sec2{
+    float: left;
+    padding-left: 114px;
+
+    
+} */

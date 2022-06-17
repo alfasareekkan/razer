@@ -124,7 +124,7 @@ a {
 .list-item2 {
     margin-top: 10px;
     float: left;
-    background-image: url("/assets/img/razer-blade-17-homepage-desktop1x-refresh.jpg");
+    background-image: url("../img/razer-blade-17-homepage-desktop1x-refresh.jpg");
     height: 400px;
     width: 100%;
     background-size: cover;
@@ -153,7 +153,7 @@ a {
     margin-top: 10px;
 
     float: left;
-    background-image: url("/assets/img/razer-viper-v2-pro-hero.jpg");
+    background-image: url("../img/razer-viper-v2-pro-hero.jpg");
 
     height: 460px;
     width: 49%;
@@ -165,7 +165,7 @@ a {
     margin-left: 10px;
 
     float: left;
-    background-image: url("/assets/img/razer-barracuda-family-hero.jpg");
+    background-image: url("../img/razer-barracuda-family-hero.jpg");
 
     height: 460px;
     width: 50%;
